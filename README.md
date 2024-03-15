@@ -31,7 +31,7 @@
 
 ## 📌 Projects
 
-### 첫 번째 팀 프로젝트
+### 1. 첫 번째 팀 프로젝트
 #### IoT기반 자전거 도난방지 시스템
 
 * 일반적인 자전거 잠금장치와 달리 이 시스템은 다양한 센서와 통신 기술을 활용하여 자전거의 위치를 실시간으로 추적하고, <br>
@@ -43,11 +43,11 @@
 * 개발 도구: Spring Arduino VScode<br>
 * 서버 환경: Apache Tomcat<br>
 * 데이터베이스: Oracle<br>
-* 링크 : [링크](https://github.com/2023-SMHRD-KDT-IOT-4/Repo)
+* 링크 : [IoT기반 자전거 도난방지 시스템](https://github.com/2023-SMHRD-KDT-IOT-4/Repo)
 
 
 
-### 두 번째 팀 프로젝트
+### 2. 두 번째 팀 프로젝트
 
 ####  생애전주기별 건강기능식품 추천 알고리즘 
 
@@ -55,11 +55,11 @@
 
 #### 사용 언어
 * Java HTML CSS JavaScript<br>
-* 라이브러리: KAKAO map API<br>
+* 라이브러리: Flask Spring BOOT Sass 
 * 개발 도구: Spring Arduino VScode<br>
 * 서버 환경: Apache Tomcat<br>
 * 데이터베이스: Oracle<br>
-* 링크 : [링크](https://github.com/2023-SMHRD-KDT-IOT-4/Repo)
+* 링크 : [생애전주기별 건강기능식품 추천 알고리즘](https://github.com/2023-SMHRD-KDT-IOT-4/yeahaRepo)
 
 
 <br>
